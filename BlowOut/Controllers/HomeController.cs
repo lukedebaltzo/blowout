@@ -26,5 +26,21 @@ namespace BlowOut.Controllers
 
             return View();
         }
+
+        //stuff for the RENTAL process
+        //Create a Rentals view that allows users to select a type of instrument by clicking on an image.
+
+        //After clicking on the instrument image you should be taken to a new page that shows the instrument.
+        //The user should be able to select new or used.Depending on whether its new or used, you should show the price for the instrument.
+
+        public ActionResult Rental()
+        {
+            return View();
+        }
+
+        public ActionResult Trumpet()
+        {
+            return View();
+        }
     }
 }

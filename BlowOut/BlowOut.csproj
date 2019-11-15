@@ -133,7 +133,14 @@
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\images\black-sketches-of-musical-instruments-on-white-background-elaine-plesser.jpg" />
+    <Content Include="Content\images\clarinet.jpg" />
+    <Content Include="Content\images\flute.jpg" />
     <Content Include="Content\images\instraments.jpg" />
+    <Content Include="Content\images\saxophone.jpg" />
+    <Content Include="Content\images\trombone.jpg" />
+    <Content Include="Content\images\trumpet.jpg" />
+    <Content Include="Content\images\trumpet2.jpg" />
+    <Content Include="Content\images\tuba.jpg" />
     <Content Include="Content\StyleSheet1.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
@@ -168,6 +175,8 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Contact\Index.cshtml" />
     <Content Include="Views\Contact\Email.cshtml" />
+    <Content Include="Views\Home\Rental.cshtml" />
+    <Content Include="Views\Home\Trumpet.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
