@@ -3,12 +3,11 @@
 }
 
 body {
-    background-image: url('images/black-sketches-of-musical-instruments-on-white-background-elaine-plesser.jpg');
-    background-size: cover;
+    background-color: #acdef1 !important;
 }
 
 .jumbotron {
-    background-color: #acdef1 !important;
+    background-color: #ffffff !important;
 }
 
 .w3-btn, .w3-button {
@@ -16,3 +15,6 @@ body {
     background-color: #e6f8ff !important;
 }
 
+td, th {
+    padding: 20px !important;
+}
