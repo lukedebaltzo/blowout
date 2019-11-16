@@ -182,6 +182,7 @@
     <Content Include="Views\Home\Saxophone.cshtml" />
     <Content Include="Views\Home\Clarinet.cshtml" />
     <Content Include="Views\Home\Tuba.cshtml" />
+    <Content Include="Views\Contact\SendEmail.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
