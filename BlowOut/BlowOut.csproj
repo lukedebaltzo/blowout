@@ -177,6 +177,11 @@
     <Content Include="Views\Contact\Email.cshtml" />
     <Content Include="Views\Home\Rental.cshtml" />
     <Content Include="Views\Home\Trumpet.cshtml" />
+    <Content Include="Views\Home\Trombone.cshtml" />
+    <Content Include="Views\Home\Flute.cshtml" />
+    <Content Include="Views\Home\Saxophone.cshtml" />
+    <Content Include="Views\Home\Clarinet.cshtml" />
+    <Content Include="Views\Home\Tuba.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

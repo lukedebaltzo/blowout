@@ -42,5 +42,39 @@ namespace BlowOut.Controllers
         {
             return View();
         }
+
+        public ActionResult TrumpetNew()
+        {
+            ViewBag.newtrumpet = "$55 a month";
+            return RedirectToAction("Trumpet");
+        }
+
+
+
+        public ActionResult Trombone()
+        {
+            return View();
+        }
+
+        public ActionResult Tuba()
+        {
+            return View();
+        }
+
+        public ActionResult Flute()
+        {
+            return View();
+        }
+
+        public ActionResult Saxophone()
+        {
+            return View();
+        }
+
+        public ActionResult Clarinet()
+        {
+            return View();
+        }
+
     }
 }
